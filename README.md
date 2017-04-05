@@ -1,0 +1,2 @@
+# BlueBrigeCupTest
+For blue
